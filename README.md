@@ -5,9 +5,9 @@ This game still needs a lot of improvements.
 
 Here are something I can work on:
 
-Build a nice User interface
+Build a nice User interface. 
 Probably create a simple AI defender?
-Fix the restart button
+Fix the restart button.
 Increase the difficulty?
 Making the shelter blocks moving?
 
