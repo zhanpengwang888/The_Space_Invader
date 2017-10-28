@@ -9,4 +9,5 @@ Probably create a simple AI defender?
 Fix the restart button
 Increase the difficulty?
 Making the shelter blocks moving?
-
+Probably a good idea to comment all the codes for people including myself what exactly I am doing there?
+(This is a bad habit for not writing comments!!!)
